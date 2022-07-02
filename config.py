@@ -1,0 +1,9 @@
+num_units = 100
+max_life_unit = 500
+min_life_unit = 100
+alpha_early_predictions = 0.2
+alpha_late_predictions = 0.1
+penalty_a1=10
+penalty_a1=12
+t_fp = 50
+t_fn = 80
